@@ -125,3 +125,5 @@ To make sure our changes have worked, let's run the app. Remember, we haven't ch
 Run the app by pressing the Run button in the toolbar or the `⌘R` shortcut. With the app active in the simulator, press command-shift-h (`⇧⌘H`). You should see the simulator return to the iPhone home screen with your new app icon and display name!
 >
 ![Home Screen Styled](assets/home_screen_styled.png)
+
+[Next Page](https://github.com/MondaleFelix/Magic-8Ball-Swift4/blob/master/P4-Adding-UI/content.md)
