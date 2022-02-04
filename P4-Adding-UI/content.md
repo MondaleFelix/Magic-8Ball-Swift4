@@ -102,7 +102,7 @@ A simpler, but less precise way of changing our button's frame is by selecting i
 > [action]
 Change your skip button's frame to be centered and positioned along the bottom of the Interface Builder view controller.
 >
-![ms-video](assets/resize_button.mov)
+![ms-video](https://giphy.com/gifs/vntdjtsyX2IzsdPWRn)
 
 The positioning doesn't have to be perfect, but if you want to be more precise you can use the _Size Inspector_.
 
