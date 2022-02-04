@@ -35,7 +35,7 @@ Next, let's build our UI in the default view controller that comes with every _S
 
 First we'll need to open our storyboard file.
 
-> [action]
+
 In your Project navigator, select the `Main.storyboard` file. You'll see your editor area change to the following:
 
 ![Main Storyboard Overview](assets/main_storyboard_overview.png)
@@ -115,9 +115,9 @@ This is ok _for now_. This tutorial is more focused on making sure you get a lay
 
 To complete our UI, we'll also need to add a label to display the Magic 8-Ball's answers.
 
-> [action]
+
 From the _Object Library_ find the label and drag it onto center of the view controller's root view.
->
+
 ![ms-video](https://media.giphy.com/media/WlNdGiLCUwwjyblTG0/giphy.gif)
 
 Next, we'll change the size and attributes of our label.
