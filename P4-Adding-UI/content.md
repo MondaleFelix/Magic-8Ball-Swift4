@@ -99,11 +99,6 @@ You can view and edit the current frame of the selected storyboard object under 
 
 A simpler, but less precise way of changing our button's frame is by selecting it your cursor and dragging. You can drag the center of the object to move as well as the corners of it's bounds to resize it.
 
-> [action]
-Change your skip button's frame to be centered and positioned along the bottom of the Interface Builder view controller.
->
-![ms-video](https://giphy.com/gifs/vntdjtsyX2IzsdPWRn)
-
 The positioning doesn't have to be perfect, but if you want to be more precise you can use the _Size Inspector_.
 
 > [info]
