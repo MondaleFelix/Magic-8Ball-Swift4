@@ -205,3 +205,5 @@ You'll see that the simulator will stop running your app.
 At this point, you've created your first Xcode project and run the empty new project in the simulator. As we move forward, we'll keep running our app on the simulator to check that our project is working as expected.
 
 Next, let's we'll learn about the _Project Navigator_, the different type of files in Xcode and how to add an app icon to our project!
+
+[Next Page](https://github.com/MondaleFelix/Magic-8Ball-Swift4/blob/master/P3-Navigating-Xcode/content.md)
