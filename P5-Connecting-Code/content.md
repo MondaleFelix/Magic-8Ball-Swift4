@@ -280,3 +280,5 @@ In this last section, we took the UI we built in storyboard and hooked it up to 
 We figured out how to respond to some basic user gestures (button taps and shakes) and finally implemented some logic for our Magic 8-Ball to work.
 
 In the next section, we'll wrap up by reviewing what we learned.
+
+[Next Page](https://github.com/MondaleFelix/Magic-8Ball-Swift4/blob/master/P6-Conclusion/content.md)
