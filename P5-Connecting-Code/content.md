@@ -92,7 +92,7 @@ An IBAction is a method that is called when the user interacts with a UI object.
 Let's create an IBAction for when a user taps on the _shake button_.
 
 > [action]
-Create a IBAction from your _shake button_ in your view controller source file: ![ms-video](assets/button_ibaction.mov)
+Create a IBAction from your _shake button_ in your view controller source file: ![ms-video](https://media4.giphy.com/media/GC0PVgS4iGZwxRXyRW/giphy.gif?cid=790b7611a38a415978e330d01795b55f870e21d94f183392&rid=giphy.gif&ct=g)
 >
 Step-by-step:
 >
