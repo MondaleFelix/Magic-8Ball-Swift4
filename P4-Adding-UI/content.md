@@ -133,3 +133,5 @@ Build and run your app on the iPhone 8 simulator. You'll see the following:
 ![Storyboard UI Finished](assets/storyboard_ui_finished.png)
 
 We've laid out our UI using Interface Builder. Next, we'll look at connecting our views to our Swift source files. As you might imagine, without connecting our storyboard objects to code, our app won't be able do much.
+
+[Next Page](https://github.com/MondaleFelix/Magic-8Ball-Swift4/blob/master/P5-Connecting-Code/content.md)
