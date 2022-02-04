@@ -118,7 +118,7 @@ To complete our UI, we'll also need to add a label to display the Magic 8-Ball's
 > [action]
 From the _Object Library_ find the label and drag it onto center of the view controller's root view.
 >
-![ms-video](assets/add_label_to_vc.mov)
+![ms-video](https://media.giphy.com/media/WlNdGiLCUwwjyblTG0/giphy.gif)
 
 Next, we'll change the size and attributes of our label.
 
