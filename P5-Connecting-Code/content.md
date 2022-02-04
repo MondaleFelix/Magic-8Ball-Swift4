@@ -25,10 +25,10 @@ The first thing you might notice, is the lack of screen space for each open file
 
 You can use these buttons to toggle between hiding and displaying the _Navigator_, _Debugger_ and _Utilities_ areas. Let's go ahead and close the _Navigator area_ for a little more screen real-estate.
 
-> [action]
+> 
 Close the _Navigator_ pane by clicking on the first of the buttons. Keep the _Utilities area_ open as we'll need it soon.
 >
-![ms-video](assets/hide_navigator.mov)
+![ms-video](https://media.giphy.com/media/etOEk0khLu5m4jh5JM/giphy.gif)
 
 Now that we know how to display two different files side-by-side, we'll look at how Xcode knows to connect our storyboard view controller to our `ViewController.swift` source file.
 
