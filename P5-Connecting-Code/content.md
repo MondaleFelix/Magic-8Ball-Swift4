@@ -67,7 +67,7 @@ With our `Main.storyboard` and `ViewController.swift` files open side by side, l
 > [action]
 Create an IBOutlet for your answer label.
 >
-Select the answer label in _Interface Builder_. Next hold down control (`⌃`) and click-drag from your storyboard label into your `ViewController.swift` file. In the resulting prompt, name your new IBOutlet `answerLabel`. ![ms-video](assets/answer_label_iboutlet.mov)
+Select the answer label in _Interface Builder_. Next hold down control (`⌃`) and click-drag from your storyboard label into your `ViewController.swift` file. In the resulting prompt, name your new IBOutlet `answerLabel`. ![ms-video](https://media4.giphy.com/media/WQ8Zr2OLmqhSCeV1OM/giphy.gif?cid=790b76113c1358aeda566d4a59d7d8b0b2e9e7e4f0818cf1&rid=giphy.gif&ct=g)
 
 Repeat the same process for the _shake button_.
 
