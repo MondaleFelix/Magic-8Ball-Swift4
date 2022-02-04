@@ -30,7 +30,7 @@ Beginners are expected to have a basic understanding of the Swift programming la
 
 ## Estimated Completion Time:
 
-1 hour
+2-3 hours
 
 # What We're Building
 
